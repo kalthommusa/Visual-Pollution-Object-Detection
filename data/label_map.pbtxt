@@ -1,0 +1,40 @@
+item {
+    id: 1
+    name: 'BAD_BILLBOARD' 
+}
+item {
+    id: 2
+    name: 'BROKEN_SIGNAGE'
+}
+item {
+    id: 3
+    name: 'CLUTTER_SIDEWALK'
+}
+item {
+    id: 4
+    name: 'CONSTRUCTION_ROAD'
+}
+item {
+    id: 5
+    name: 'FADED_SIGNAGE'
+}
+item {
+    id: 6
+    name: 'GARBAGE'
+}
+item {
+    id: 7
+    name: 'GRAFFITI'
+}
+item {
+    id: 8
+    name: 'POTHOLES'
+}
+item {
+    id: 9
+    name: 'SAND_ON_ROAD'
+}
+item {
+    id: 10
+    name: 'UNKEPT_FACADE'
+}
