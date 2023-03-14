@@ -8,19 +8,27 @@ This project aims to build a new field of automated visual pollution classificat
 In this project, I trained a custom model using Tensorflow Object Detection API version 2 on Google Colab to detect and classify 10 types of visual pollution on street imagery taken from a moving vehicle in Saudi Arabia.
 
 
-##Visual pollution types:
+## Visual pollution types:
 
+● 1- GRAFFITI
 
-● GRAFFITI
-● FADED SIGNAGE
-● POTHOLES
-● GARBAGE
-● CONSTRUCTION ROAD
-● BROKEN_SIGNAGE
-● BAD BILLBOARD
-● SAND ON ROAD
-● CLUTTER_SIDEWALK
-● UNKEPT_FACADE
+● 2- FADED SIGNAGE
+
+● 3- POTHOLES
+
+● 4- GARBAGE
+
+● 5- CONSTRUCTION ROAD
+
+● 6- BROKEN_SIGNAGE
+
+● 7- BAD BILLBOARD
+
+● 8- SAND ON ROAD
+
+● 9- CLUTTER_SIDEWALK
+
+● 10- UNKEPT_FACADE
 
 
 ## Technology and tools used:
