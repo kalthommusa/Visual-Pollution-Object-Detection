@@ -10,25 +10,25 @@ In this project, I trained a custom model using Tensorflow Object Detection API 
 
 ## Visual pollution types:
 
-● 1- GRAFFITI
+1- BAD BILLBOARD 
 
-● 2- FADED SIGNAGE
+2- BROKEN_SIGNAGE 
 
-● 3- POTHOLES
+3- CLUTTER_SIDEWALK 
 
-● 4- GARBAGE
+4- CONSTRUCTION ROAD 
 
-● 5- CONSTRUCTION ROAD
+5- FADED SIGNAGE 
 
-● 6- BROKEN_SIGNAGE
+6- GARBAGE
 
-● 7- BAD BILLBOARD
+7- GRAFFITI
 
-● 8- SAND ON ROAD
+8- POTHOLES 
 
-● 9- CLUTTER_SIDEWALK
+9- SAND ON ROAD
 
-● 10- UNKEPT_FACADE
+10- UNKEPT_FACADE
 
 
 ## Technology and tools used:
